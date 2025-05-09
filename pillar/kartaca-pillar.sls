@@ -1,0 +1,1 @@
+kartaca_password: "$6$Mb9.0LJTjUF72t1q$g4sLaR6xmmITqli.6PrPPXCfZkcPNxENx5kt9slmnj6vJa5sGW7mVhV.3DLMoIfnh3Tln9DWqRamfwze2RMKZ."
